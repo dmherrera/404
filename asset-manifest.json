@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/404.git/static/js/main.3ba61a44.js",
-    "index.html": "/404.git/index.html",
-    "main.3ba61a44.js.map": "/404.git/static/js/main.3ba61a44.js.map"
+    "main.js": "/404/static/js/main.3ba61a44.js",
+    "index.html": "/404/index.html",
+    "main.3ba61a44.js.map": "/404/static/js/main.3ba61a44.js.map"
   },
   "entrypoints": [
     "static/js/main.3ba61a44.js"
